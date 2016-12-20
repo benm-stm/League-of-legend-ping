@@ -1,2 +1,2 @@
 # League-of-legend-ping
-Chrome based eague of legend ping tester plugin
+Chrome based league of legends ping tester plugin
